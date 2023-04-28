@@ -1,5 +1,5 @@
 <h1 align="center">
-Hi, I'm TantaiHaha!
+Hi, I'm TantaiHaha!   <img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" height="40px">
 </h1>
 <img src="https://github.com/tantaihaha4487/tantaihaha4487/blob/main/logo.png" alt="logo">
 <br>
