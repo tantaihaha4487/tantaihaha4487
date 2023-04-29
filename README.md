@@ -9,8 +9,9 @@ Hi, I'm TantaiHaha!   <img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giph
 ```
 TantaiHaha@github
 -------------------------
+👋 My name's Tantai, I'm 15yo
 💻 I am a self taught Programer
-🧾 Studing at Narinukun School
+🧾 Studying at Narinukun School
 🔭 Working on Full stack Developer & Programer
 🌱 Learning about Web developer, Software developer
 🌟 Main languages: Java, JavaScript
