@@ -34,7 +34,7 @@ TantaiHaha@github
     <img src = "https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt = "React" />
   
 - <h4> frameworks & libraries </h4>
-   <img src = "https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt = "React" />
+  </-- <img src = "https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt = "React" /> -->
    <img src = "https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt = "expressjs" />
    
 - <h4> tools</h4>
