@@ -7,16 +7,16 @@ Hi, I'm TantaiHaha!   <img src="chipi-chipi-chapa-chapa.gif" height="40px">
 <hr>
 
 ```
-TantaiHaha@github
+TantaiHaha4487@github
 -------------------------
-👋 My name's Tantai, I'm 15yo
+👋 My name's Tantai, I'm 16yo
 💻 I am a self taught Programer
 🧾 Studying at Narinukun School
 🔭 Working on Full stack Developer & Programer
 🌱 Learning about Web developer, Software developer
-🌟 Main languages: Java, JavaScript
+🌟 Main languages: JavaScript
 🚩 Interested in Software developer
-🎵 Love lofi
+🎵 Love lofi and Stay Low-key
 ```
 <hr>
 
