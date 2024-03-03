@@ -39,6 +39,7 @@ TantaiHaha4487@github
    
 - <h4> tools</h4>
    <img src = "https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt = "VS code" />
+   <img src = "https://img.shields.io/badge/Intili%20J-ff54c1.svg?style=for-the-badge&logo=intellijidea&logoColor=white" alt = "InteliJ" />
    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
    
 <div align="right">
