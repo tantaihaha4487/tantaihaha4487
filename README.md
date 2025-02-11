@@ -9,7 +9,7 @@ Hi, I'm TantaiHaha!   <img src="chipi-chipi-chapa-chapa.gif" height="40px">
 ```
 TantaiHaha4487@github
 -------------------------
-👋 My name's Tantai, I'm 16yo
+👋 My name's Tantai, I'm 17yo
 💻 I am a self taught Programer
 🧾 Studying at Narinukun School
 🔭 Working on Full stack Developer & Programer
