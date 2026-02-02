@@ -12,7 +12,8 @@ Hi, I'm TantaiHaha!   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3Nj
 ```
 tantaiHaha4487@github
 -------------------------
-👋 My name's Tantai, I'm 17yo
+=> Fake it till you make it.
+👋 My name's Tantai, I'm 18 y/o
 💻 I am a self taught Programer
 🧾 Studying at Narinukun School
 🔭 Working on Full stack Developer & Programer
