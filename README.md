@@ -52,6 +52,8 @@ tantaiHaha4487@github
 
 <h2> / profile Stats / </h2>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tantaihaha4487&theme=rose)](https://git.io/streak-stats)
+
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tantaihaha4487&theme=github_dark"/>
 </div>
