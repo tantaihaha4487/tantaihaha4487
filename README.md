@@ -53,7 +53,7 @@ tantaiHaha4487@github
 <h2> / profile Stats / </h2>
 
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=tantaihaha4487&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
+  <a href="https://github-readme-streak-stats.herokuapp.com?user=tantaihaha4487&theme=dark&hide_border=true"><img src="https://github-readme-streak-stats.herokuapp.com?user=tantaihaha4487&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
   <br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tantaihaha4487&theme=github_dark"/>
 </div>
