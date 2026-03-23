@@ -2,7 +2,7 @@
 Hi, I'm TantaiHaha!   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExODlneWx5bTE1dTI5YzdxN2hoZ2ZpOTNmaWR0cmwyMjZlNnY0dTQ4cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KxNz4T9qrOjadY1XtJ/giphy.gif" height="64px">
 </h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm%20Tantai;Narinukun%20Student;Minecraft%20Plugin%20Developer&ACfont=Fira%20Code&center=true&width=440&height=120px">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm%20Tantai;I'm%20Thanhachot;Minecraft%20Mod%2FPlugin%20Developer&ACfont=Fira%20Code&center=true&width=440&height=120px">
 </p>
 
 <img align="left" src="https://raw.githubusercontent.com/laynH/Anime-Girls-Holding-Programming-Books/master/C%2B%2B/Sakura_Nene_CPP.jpg" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="490" />
