@@ -17,12 +17,15 @@
   <tr>
     <td valign="top">
       <pre>
-thanachot@github
+tantaihaha4487@github:~$ whoami
 ----------------
-Name     : Thanachot Phomthong (Tantai)
+Name     : Thanachot Phomthong
+Alias    : Tantai, tantaihaha, Thanachot
 Location : Thailand
 Role     : Developer · Creator · Builder
 Focus    : Web apps, Minecraft mods/plugins, automation
+Timezone : ICT (UTC+7)
+Based in : Thailand
       </pre>
     </td>
     <td valign="middle">
