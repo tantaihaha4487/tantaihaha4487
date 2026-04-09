@@ -1,61 +1,78 @@
-<h1 align="center">
-Hi, I'm TantaiHaha!   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExODlneWx5bTE1dTI5YzdxN2hoZ2ZpOTNmaWR0cmwyMjZlNnY0dTQ4cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KxNz4T9qrOjadY1XtJ/giphy.gif" height="64px">
-</h1>
+<h1 align="center">Thanachot Phomthong</h1>
+<p align="center"><b>Developer · Creator · Builder</b></p>
+<!-- <p align="center">
+  <img src="./assets/logo.png" alt="Thanachot logo" width="120" />
+</p> -->
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=I'm%20Tantai;I'm%20Thanhachot;Minecraft%20Mod%2FPlugin%20Developer&ACfont=Fira%20Code&center=true&width=440&height=120px">
+  <a href="https://thanachot.xyz"><img src="https://img.shields.io/badge/Portfolio-thanachot.xyz-0f172a?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://github.com/tantaihaha4487"><img src="https://img.shields.io/badge/GitHub-tantaihaha4487-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://modrinth.com/user/tantaihaha4487"><img src="https://img.shields.io/badge/Modrinth-tantaihaha4487-00AF5C?style=for-the-badge&logo=modrinth&logoColor=white" alt="Modrinth" /></a>
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=C084FC&center=true&vCenter=true&width=900&lines=Full-stack+developer;Minecraft+mod+%26+plugin+builder;TypeScript+%C2%B7+Java+%C2%B7+Python;Web%2C+gameplay%2C+and+automation+projects" alt="Typing SVG" />
 </p>
 
-<img align="left" src="https://raw.githubusercontent.com/laynH/Anime-Girls-Holding-Programming-Books/master/C%2B%2B/Sakura_Nene_CPP.jpg" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="490" />
+<table align="center">
+  <tr>
+    <td valign="top">
+      <pre>
+thanachot@github
+----------------
+Name     : Thanachot Phomthong (Tantai)
+Location : Thailand
+Role     : Developer · Creator · Builder
+Focus    : Web apps, Minecraft mods/plugins, automation
+      </pre>
+    </td>
+    <td valign="middle">
+      <img src="./assets/castorice.jpg" alt="Castorice" width="220" />
+    </td>
+  </tr>
+</table>
 
-<hr>
+<h2 align="center">Tech Stack</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Fabric-DBD0B4?style=for-the-badge&logoColor=000000" alt="Fabric" />
+  <img src="https://img.shields.io/badge/Paper-FFFFFF?style=for-the-badge&logoColor=000000" alt="Paper" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000" alt="Linux" />
+</p>
 
-```
-tantaiHaha4487@github
--------------------------
-=> Fake it till you make it.
-👋 My name's Tantai, I'm 18 y/o
-💻 I am a self taught Programer
-🧾 Studying at Narinukun School
-🔭 Working on Full stack Developer & Programer
-🌱 Learning about Web developer, Software developer
-🌟 Main languages: JavaScript, Java
-🚩 Interested in Software developer
-🎵 Love lofi and Stay Low-key
-```
-<hr>
+<h2 align="center">GitHub Stats</h2>
+<!-- <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=tantaihaha4487&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tantaihaha4487&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165" />
+</p> -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=tantaihaha4487&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
 
-<h2> / current skills / </h2>
-
-<img align="right" src="/castorice.jpg" alt="Castorice" width="300" />
-
-- <h4> languages </h4>
-  <img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt = "js" />
-  <img src = "https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt = "java" />
-  <img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt = "html" />
-  <img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt = "css" />
-  <img src="https://img.shields.io/badge/Python-blue.svg?style=for-the-badge&logo=python&logoColor=white" alt="python">
-  
-  - <h5> currently learning </h5>
-    <img src = "https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt = "React" />
-  
-- <h4> frameworks & libraries </h4>
-   <img src = "https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt = "expressjs" />
-   
-- <h4> tools</h4>
-   <img src = "https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=vsc&logoColor=white" alt = "VS code" />
-   <img src = "https://img.shields.io/badge/Intili%20J-ff54c1.svg?style=for-the-badge&logo=intellijidea&logoColor=white" alt = "InteliJ" />
-   <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
-  
-<div align="right">
-  <a href="https://x.com/serina5115">Image by kokonexu</a>
-</div>
-
-<h2> / profile Stats / </h2>
-
-<div align="center">
-  <a href="https://github-readme-streak-stats.herokuapp.com?user=tantaihaha4487&theme=dark&hide_border=true"><img src="https://github-readme-streak-stats.herokuapp.com?user=tantaihaha4487&theme=dark&hide_border=true" alt="GitHub Streak" /></a>
-  <br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tantaihaha4487&theme=github_dark"/>
-</div>
-
-<hr>
+<h2 align="center">Contact</h2>
+<p align="center">
+  <a href="https://thanachot.xyz"><img src="https://img.shields.io/badge/Website-thanachot.xyz-111827?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+  <a href="https://github.com/tantaihaha4487"><img src="https://img.shields.io/badge/GitHub-tantaihaha4487-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://modrinth.com/user/tantaihaha4487"><img src="https://img.shields.io/badge/Modrinth-tantaihaha4487-00AF5C?style=for-the-badge&logo=modrinth&logoColor=white" alt="Modrinth" /></a>
+</p>
+<p align="center">
+  <a href="https://x.com/TantaiHaha"><img src="https://img.shields.io/badge/X-@TantaiHaha-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" /></a>
+  <a href="https://www.instagram.com/txntai._exec/"><img src="https://img.shields.io/badge/Instagram-@txntai._exec-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.facebook.com/thanachot.phomthong"><img src="https://img.shields.io/badge/Facebook-Thanachot%20Phomthong-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
+</p>
+<p align="center">
+  <a href="https://discord.gg/3R2vhgQqde"><img src="https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://enka.network/u/thanachot/"><img src="https://img.shields.io/badge/Enka-Thanachot-6D28D9?style=for-the-badge&logo=genshinimpact&logoColor=white" alt="Enka" /></a>
+</p>
