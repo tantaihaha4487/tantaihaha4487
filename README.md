@@ -26,7 +26,7 @@ Focus    : Web apps, Minecraft mods/plugins, automation
       </pre>
     </td>
     <td valign="middle">
-      <img src="./assets/castorice.jpg" alt="Castorice" width="220" />
+      <img src="./assets/mashiro.png" alt="Mashiro" width="220" />
     </td>
   </tr>
 </table>
