@@ -21,9 +21,9 @@ tantaihaha4487@github:~$ whoami
 ----------------
 Name     : Thanachot Phomthong
 Alias    : Tantai, tantaihaha, Thanachot
-Location : Thailand
 Role     : Developer · Creator · Builder
 Focus    : Web apps, Minecraft mods/plugins, automation
+Goal     : Bring Project Mashiro to life
 Timezone : ICT (UTC+7)
 Based in : Thailand
       </pre>
@@ -71,7 +71,7 @@ Based in : Thailand
   <a href="https://modrinth.com/user/tantaihaha4487"><img src="https://img.shields.io/badge/Modrinth-tantaihaha4487-00AF5C?style=for-the-badge&logo=modrinth&logoColor=white" alt="Modrinth" /></a>
 </p>
 <p align="center">
-  <a href="https://x.com/TantaiHaha"><img src="https://img.shields.io/badge/X-@TantaiHaha-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" /></a>
+  <a href="https://x.com/TantaiHaha"><img src="https://img.shields.io/badge/@TantaiHaha-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" /></a>
   <a href="https://www.instagram.com/txntai._exec/"><img src="https://img.shields.io/badge/Instagram-@txntai._exec-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://www.facebook.com/thanachot.phomthong"><img src="https://img.shields.io/badge/Facebook-Thanachot%20Phomthong-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a>
 </p>
